@@ -1,0 +1,15 @@
+C:\Users\Михаил\source\repos\Most\bin\Debug\net6.0\Most.exe
+C:\Users\Михаил\source\repos\Most\bin\Debug\net6.0\Most.deps.json
+C:\Users\Михаил\source\repos\Most\bin\Debug\net6.0\Most.runtimeconfig.json
+C:\Users\Михаил\source\repos\Most\bin\Debug\net6.0\Most.dll
+C:\Users\Михаил\source\repos\Most\bin\Debug\net6.0\Most.pdb
+C:\Users\Михаил\source\repos\Most\obj\Debug\net6.0\Most.csproj.AssemblyReference.cache
+C:\Users\Михаил\source\repos\Most\obj\Debug\net6.0\Most.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\source\repos\Most\obj\Debug\net6.0\Most.AssemblyInfoInputs.cache
+C:\Users\Михаил\source\repos\Most\obj\Debug\net6.0\Most.AssemblyInfo.cs
+C:\Users\Михаил\source\repos\Most\obj\Debug\net6.0\Most.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Most\obj\Debug\net6.0\Most.dll
+C:\Users\Михаил\source\repos\Most\obj\Debug\net6.0\refint\Most.dll
+C:\Users\Михаил\source\repos\Most\obj\Debug\net6.0\Most.pdb
+C:\Users\Михаил\source\repos\Most\obj\Debug\net6.0\Most.genruntimeconfig.cache
+C:\Users\Михаил\source\repos\Most\obj\Debug\net6.0\ref\Most.dll
